@@ -1,4 +1,3 @@
-# Understand Before Detection
 # Understand Before Detect: Vision–Language Learning for Omni-Domain Infrared Small Target Detection
 
 [![arXiv](https://img.shields.io/badge/arXiv-2608.07015-b31b1b.svg)](https://arxiv.org/abs/2608.07015)

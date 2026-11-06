@@ -6,6 +6,10 @@
 
 This repository will host **JinSight**, our vision–language framework for omni-domain infrared small target detection, and **OmniIRST-VL**, our infrared vision–language dataset.
 
+## JinSight Motivation Video
+
+https://github.com/user-attachments/assets/caa72877-9da2-471c-acd6-0e1df02cda20
+
 ## Overview
 
 Conventional infrared small target detection methods primarily rely on binary target–background supervision, which overlooks rich scene semantics and target–context relationships. We introduce an **“understand before detect”** paradigm that learns holistic infrared understanding before transferring the learned representations to precise small target detection.
